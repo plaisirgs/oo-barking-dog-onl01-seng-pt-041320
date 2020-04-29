@@ -1,5 +1,5 @@
 class Dog
-  def 
+  def new_dog=
   end
 end
 
